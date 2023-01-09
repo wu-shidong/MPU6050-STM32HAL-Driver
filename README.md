@@ -1,0 +1,4 @@
+# MPU6050-STM32HAL-Driver
+STM32HAL库的MPU6050驱动
+
+需要在CUBE MX中开启IIC1，设置为高速模式
